@@ -334,7 +334,7 @@ section.container > form.flip > .front {
   background: #fafafa;
   background: -webkit-linear-gradient(top, #fafafa 90%, #f7f7f7 100%);
   background: -moz-linear-gradient(top, #fafafa 80%, #f7f7f7 100%);
-  padding: 30px 40px 0;
+  padding: 30px 10px 0;
   font-size: 18px;
   line-height: 1.4;
 }
