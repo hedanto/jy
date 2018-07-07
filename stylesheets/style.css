@@ -67,7 +67,7 @@ a:hover {
 
 section.container {
   position: relative;
-  width: 600px;
+  width: 98%;
   height: 300px;
   margin: 280px auto 0;
   perspective: 1000px;
@@ -207,8 +207,8 @@ section.container:target > form.flip {
 section.container > form.flip > .front {
   font-size: 1.25em;
   background: beige url("../images/bg.png");
-  background: url("../images/stamp.png") no-repeat 450px 20px, url("../images/bg.png");
-  padding: 120px 0px 20px;
+  /*background: url("../images/stamp.png") no-repeat 450px 20px, url("../images/bg.png");*/
+  padding: 100px 0px 20px;
   text-align: center;
   border: 1px #eae1d5 solid; }
 
