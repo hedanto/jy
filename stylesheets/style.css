@@ -70,6 +70,7 @@ section.container {
   width: 600px;
   height: 300px;
   margin: 280px auto 0;
+  transform: scale(0.9);
   perspective: 1000px;
   -webkit-perspective: 1000px;
   -moz-perspective: 1000px; }
