@@ -24,10 +24,10 @@ var S = {
         if (i !== -1) {
             S.UI.simulate(decodeURI(action).substring(i + 3));
         } else {
-            S.UI.simulate('#circle|美丽的|邵静莹女士|明天|有空吗？|一起去|看鱼吧！', 3000);
+            S.UI.simulate('#circle|美丽的|邵静莹女士|明天|有空吗？|一起去|看鱼吧！', 5000);
             setInterval(function () {
-                S.UI.simulate('#circle|美丽的|邵静莹女士|明天|有空吗？|一起去|看鱼吧！', 3000);
-            }, 21000);
+                S.UI.simulate('#circle|美丽的|邵静莹女士|明天|有空吗？|一起去|看鱼吧！', 5000);
+            }, 35000);
             
            // S.UI.simulate('#show', 3000);
         }
